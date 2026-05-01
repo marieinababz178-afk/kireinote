@@ -1,17 +1,28 @@
 ---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
 
+const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout title="kireinote — 美容のもやもやを、ちょっと軽くするノート">
+  <ul class="post-list">
+    {posts.map((post) => (
+      <li>
+        <a href={`/posts/${post.id}/`}>
+          <div class="title">{post.data.title}</div>
+          <div class="desc">{post.data.description}</div>
+          <div class="date">{post.data.date.toLocaleDateString("ja-JP", { year: "numeric", month: "long", day: "numeric" })}</div>
+        </a>
+      </li>
+    ))}
+    {posts.length === 0 && (
+      <li>
+        <div class="title">準備中です</div>
+        <div class="desc">最初の記事を準備中です。もう少しお待ちください。</div>
+      </li>
+    )}
+  </ul>
+</BaseLayout>

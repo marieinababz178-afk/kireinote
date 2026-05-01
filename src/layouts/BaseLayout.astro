@@ -1,0 +1,35 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "美容のもやもやを、ちょっと軽くするノート。" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+  </head>
+  <body>
+    <header class="site-header">
+      <a href="/">kireinote</a>
+      <div class="tagline">美容のもやもやを、ちょっと軽くするノート</div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      © {new Date().getFullYear()} kireinote
+    </footer>
+  </body>
+</html>
