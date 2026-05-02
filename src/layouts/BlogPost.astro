@@ -1,24 +1,48 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
 interface Props {
   title: string;
   description: string;
   date: Date;
+  headings?: Heading[];
 }
 
-const { title, description, date } = Astro.props;
+const { title, description, date, headings = [] } = Astro.props;
 const dateStr = date.toLocaleDateString("ja-JP", {
   year: "numeric",
   month: "long",
   day: "numeric",
 });
+
+// 目次に出すのは h2 と h3 のみ（h1 は記事タイトルなので除外）
+const tocItems = headings.filter((h) => h.depth === 2 || h.depth === 3);
 ---
 
 <BaseLayout title={`${title} | kireinote`} description={description}>
   <article>
     <h1>{title}</h1>
     <div class="meta">{dateStr}</div>
+
+    {tocItems.length > 0 && (
+      <nav class="toc" aria-label="目次">
+        <p class="toc-title">📑 目次</p>
+        <ul>
+          {tocItems.map((h) => (
+            <li class={`toc-depth-${h.depth}`}>
+              <a href={`#${h.slug}`}>{h.text}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    )}
+
     <slot />
   </article>
 </BaseLayout>
