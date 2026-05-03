@@ -21,6 +21,9 @@ note: "kireinote 4部作目（ライフスタイル展開、airCloset体験レ�
 
 ![クローゼットの前で考える女性](/images/posts/clothes-subscription-review/hero.jpg)
 
+<div class="video-wrap"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ?rel=0" title="【動画】届いてから返却まで30秒で見るairClosetの流れ" aria-label="【動画】届いてから返却まで30秒で見るairClosetの流れ" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p class="video-caption">【動画】届いてから返却まで30秒で見るairClosetの流れ</p>
+
 ## なぜサブスクを始めたか — わたしの理由
 
 ファッションサブスクに興味を持った理由は、ハッキリ3つでした。

@@ -124,6 +124,9 @@ externalLinks:
 
 そこで気になっているのが、コスメ・美容家電の **買取専門サービス** です。
 
+<div class="video-wrap"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ?rel=0" title="【動画】使わないコスメを送るだけ。JUST BUYのフロー" aria-label="【動画】使わないコスメを送るだけ。JUST BUYのフロー" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p class="video-caption">【動画】使わないコスメを送るだけ。JUST BUYのフロー</p>
+
 ## 使いかけのコスメも買取してくれる「JUST BUY」とは
 
 ![段ボール箱と梱包用のハサミ](/images/posts/cosmetics-danshari/delivery.jpg)

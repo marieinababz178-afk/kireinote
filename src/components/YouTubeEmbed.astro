@@ -1,0 +1,31 @@
+---
+/**
+ * YouTubeEmbed.astro
+ * YouTube 動画を 16:9 レスポンシブで埋め込むコンポーネント。
+ *
+ * Props:
+ *   videoId  - YouTube の動画ID（必須）
+ *   title    - iframe の title 属性 / aria-label（必須、アクセシビリティ用）
+ *   caption  - 動画下に表示するキャプション（任意）
+ */
+interface Props {
+  videoId: string;
+  title: string;
+  caption?: string;
+}
+
+const { videoId, title, caption } = Astro.props;
+const src = `https://www.youtube.com/embed/${videoId}?rel=0`;
+---
+
+<div class="video-wrap">
+  <iframe
+    src={src}
+    title={title}
+    aria-label={title}
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
+{caption && <p class="video-caption">{caption}</p>}
