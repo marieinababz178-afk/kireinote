@@ -24,7 +24,7 @@ note: "1・2記事目と並ぶ第3作。アフィリエイト未設置（A8副�
 
 ![棚に並ぶドライヤーとヘアケア家電](/images/posts/beauty-appliance-replacement/hero.jpg)
 
-<div class="video-wrap"><iframe src="https://www.youtube.com/embed/vGKnanEMSj4?rel=0" title="【動画】こんなサインが出たら買い替え時" aria-label="【動画】こんなサインが出たら買い替え時" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-wrap"><iframe src="https://www.youtube.com/embed/u8klBd4lPiE?rel=0" title="【動画】こんなサインが出たら買い替え時" aria-label="【動画】こんなサインが出たら買い替え時" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p class="video-caption">【動画】こんなサインが出たら買い替え時</p>
 
 ## 美容家電が古くなったサイン — 見極める5つのチェックポイント
