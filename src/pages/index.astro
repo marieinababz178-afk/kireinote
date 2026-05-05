@@ -8,21 +8,28 @@ const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
 ---
 
 <BaseLayout title="kireinote — 美容のもやもやを、ちょっと軽くするノート">
-  <ul class="post-list">
+  <div class="post-grid">
     {posts.map((post) => (
-      <li>
-        <a href={`/posts/${post.id}/`}>
-          <div class="title">{post.data.title}</div>
-          <div class="desc">{post.data.description}</div>
-          <div class="date">{post.data.date.toLocaleDateString("ja-JP", { year: "numeric", month: "long", day: "numeric" })}</div>
-        </a>
-      </li>
+      <a href={`/posts/${post.id}/`} class="post-card">
+        <div class="card-image">
+          <img src={`/images/posts/${post.id}/hero.jpg`} alt="" loading="lazy" />
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">{post.data.title}</h2>
+          <p class="card-desc">{post.data.description}</p>
+          <div class="card-date">
+            {post.data.date.toLocaleDateString("ja-JP", { year: "numeric", month: "long", day: "numeric" })}
+          </div>
+        </div>
+      </a>
     ))}
     {posts.length === 0 && (
-      <li>
-        <div class="title">準備中です</div>
-        <div class="desc">最初の記事を準備中です。もう少しお待ちください。</div>
-      </li>
+      <div class="post-card empty">
+        <div class="card-body">
+          <h2 class="card-title">準備中です</h2>
+          <p class="card-desc">最初の記事を準備中です。もう少しお待ちください。</p>
+        </div>
+      </div>
     )}
-  </ul>
+  </div>
 </BaseLayout>
