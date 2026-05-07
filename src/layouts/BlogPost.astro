@@ -12,9 +12,10 @@ interface Props {
   description: string;
   date: Date;
   headings?: Heading[];
+  ogImage?: string;
 }
 
-const { title, description, date, headings = [] } = Astro.props;
+const { title, description, date, headings = [], ogImage } = Astro.props;
 const dateStr = date.toLocaleDateString("ja-JP", {
   year: "numeric",
   month: "long",
@@ -25,7 +26,7 @@ const dateStr = date.toLocaleDateString("ja-JP", {
 const tocItems = headings.filter((h) => h.depth === 2 || h.depth === 3);
 ---
 
-<BaseLayout title={`${title} | kireinote`} description={description}>
+<BaseLayout title={`${title} | kireinote`} description={description} ogImage={ogImage}>
   <article>
     <h1>{title}</h1>
     <div class="meta">{dateStr}</div>

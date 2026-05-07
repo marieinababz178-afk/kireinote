@@ -12,7 +12,7 @@ const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
     {posts.map((post) => (
       <a href={`/posts/${post.id}/`} class="post-card">
         <div class="card-image">
-          <img src={`/images/posts/${post.id}/hero.jpg`} alt="" loading="lazy" />
+          <img src={`/images/posts/${post.id}/hero.jpg`} alt={post.data.title} loading="lazy" />
         </div>
         <div class="card-body">
           <h2 class="card-title">{post.data.title}</h2>
