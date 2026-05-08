@@ -99,7 +99,7 @@ note: "もしもアフィリエイト かんたんリンク×6か所プレース
 
 | メーカー | 型番 | 除湿量 | タンク容量 | 価格目安 | 特徴 |
 |---------|------|--------|----------|---------|------|
-| **アイリスオーヤマ** | IJC-J56 | 5.6L/日 | 2.0L | 約14,000円 | コスパ最強クラス、コンパクト、Amazonでも買いやすい |
+| **アイリスオーヤマ** | IJC-H65 | 6.5L/日 | 2.5L | 約16,000円 | コスパ良好、衣類乾燥強力モード・オートルーバー搭載、入手しやすい |
 | **シャープ** | CV-S71-W | 7.1L/日 | 2.5L | 約19,000円 | プラズマクラスター搭載で衣類消臭、衣類乾燥モードあり |
 | **コロナ** | CD-P6326 | 6.3L/日 | 3.5L | 約20,000円 | タンクが大きめで水捨て頻度を減らせる、静音性が高め |
 | **三菱電機** | MJ-P180WX-W | 18L/日 | 4.7L | 約35,000円 | 大容量・パワー型、広い部屋や洗濯物が多い家庭向け |
@@ -108,9 +108,9 @@ note: "もしもアフィリエイト かんたんリンク×6か所プレース
 
 ---
 
-### アイリスオーヤマ IJC-J56
+### アイリスオーヤマ IJC-H65
 
-はじめての除湿機としていちばんおすすめしやすい機種。1〜2人暮らし、6〜14畳程度の部屋にちょうどいいサイズ感で、価格が14,000円前後とコンプレッサー式のなかでも手が届きやすい。機能がシンプルで使い方で迷わない。
+はじめての除湿機としていちばんおすすめしやすい機種。除湿量6.5L/日とパワーがあり、木造7畳・鉄筋14畳程度の部屋に対応。価格は16,000円前後とコンプレッサー式のなかでも手が届きやすい。衣類乾燥強力モードとオートルーバー（風向き自動調整）を搭載しているので、部屋干しの効率がいい。静音設計で運転音が抑えられているのも◎。機能のバランスが良く、初心者でも使い方で迷わない。
 
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
@@ -120,9 +120,9 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"【公式】除湿機 コンプレッサー 衣類乾燥機 アイリスオーヤマ 送料無料 除湿器 乾燥機 コンプレッサー式 衣類乾燥除湿機 コンパクト 省エネ 部屋干し 5.6L 洗濯物 衣類 タイマー 湿気対策 IJC-J56[安心延長保証対象]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/irisplaza-r\/cabinet","p":["\/samune\/imgrc0103009930.jpg","\/jishahin34\/517636_02.jpg","\/10035985\/imgrc0098151606.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/irisplaza-r\/514105\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/irisplaza-r\/514105\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"Oplfs","s":"s"});
+msmaflink({"n":"IRIS IRIS 569285衣類乾燥除湿器 コンプレッサー式 IJC-H65 1台","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/tuzukiya\/cabinet\/0\/0\/8217","p":["\/i14-6827.jpg","\/i14-6827_1.jpg","\/i14-6827_2.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/tuzukiya\/i14-6827\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/tuzukiya\/i14-6827\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"vbEPO","s":"s"});
 </script>
-<div id="msmaflink-Oplfs">リンク</div>
+<div id="msmaflink-vbEPO">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 
 ---
@@ -177,9 +177,9 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"衣類乾燥除湿機 コンプレッサー方式 サラリPro 除湿能力15.5L\/日（50Hz）\/18L\/日（60Hz） ホワイト 三菱電機 MJ-P180WX-W","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/b-surprise2\/cabinet\/cm161","p":["\/4902901932960.jpg","\/4902901932960_1.jpg","\/4902901932960_2.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/b-surprise2\/4902901932960\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/b-surprise2\/4902901932960\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"DBYcY","s":"s"});
+msmaflink({"n":"【東証上場の安心企業】【新品・在庫】　MJ-P180WX-W ●三菱電機 コンプレッサー式 衣類乾燥 除湿機 ハイパワータイプ サラリプロ [ホワイト]【送料無料！(沖縄、離島除く）】","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":["\/@0_mall\/mitenekakakubamboo\/cabinet\/01113299\/10551216\/imgrc0097637205.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/mitenekakakubamboo\/mj-p180wx-w\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/mitenekakakubamboo\/mj-p180wx-w\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"6hyzq","s":"s"});
 </script>
-<div id="msmaflink-DBYcY">リンク</div>
+<div id="msmaflink-6hyzq">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 
 ---
@@ -214,7 +214,7 @@ msmaflink({"n":"衣類乾燥除湿機 コンプレッサー方式 サラリPro �
 - **梅雨が苦手な人**。湿度が下がるだけで、体感温度もけっこう変わります
 - **「2階だから大丈夫」と思っている人**。わたしと同じ思い込みをしている人に届いてほしい
 
-はじめて買うなら、価格と機能のバランスがいいアイリスオーヤマから試してみるのがいちばんハードルが低いと思います。
+はじめて買うなら、価格と機能のバランスがいいアイリスオーヤマ IJC-H65から試してみるのがいちばんハードルが低いと思います。6.5L/日の除湿力と衣類乾燥強力モードで、部屋干しの悩みもまとめて解決できます。
 
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
@@ -224,9 +224,9 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"【公式】除湿機 コンプレッサー 衣類乾燥機 アイリスオーヤマ 送料無料 除湿器 乾燥機 コンプレッサー式 衣類乾燥除湿機 コンパクト 省エネ 部屋干し 5.6L 洗濯物 衣類 タイマー 湿気対策 IJC-J56[安心延長保証対象]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/irisplaza-r\/cabinet","p":["\/samune\/imgrc0103009930.jpg","\/jishahin34\/517636_02.jpg","\/10035985\/imgrc0098151606.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/irisplaza-r\/514105\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/irisplaza-r\/514105\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"Oplfsb","s":"s"});
+msmaflink({"n":"IRIS IRIS 569285衣類乾燥除湿器 コンプレッサー式 IJC-H65 1台","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/tuzukiya\/cabinet\/0\/0\/8217","p":["\/i14-6827.jpg","\/i14-6827_1.jpg","\/i14-6827_2.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/tuzukiya\/i14-6827\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/tuzukiya\/i14-6827\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"vbEPOb","s":"s"});
 </script>
-<div id="msmaflink-Oplfsb">リンク</div>
+<div id="msmaflink-vbEPOb">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 
 ---
@@ -263,7 +263,7 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"【公式】除湿機 コンプレッサー 衣類乾燥機 アイリスオーヤマ 送料無料 除湿器 乾燥機 コンプレッサー式 衣類乾燥除湿機 コンパクト 省エネ 部屋干し 5.6L 洗濯物 衣類 タイマー 湿気対策 IJC-J56[安心延長保証対象]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/irisplaza-r\/cabinet","p":["\/samune\/imgrc0103009930.jpg","\/jishahin34\/517636_02.jpg","\/10035985\/imgrc0098151606.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/irisplaza-r\/514105\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/irisplaza-r\/514105\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"Oplfsc","s":"s"});
+msmaflink({"n":"IRIS IRIS 569285衣類乾燥除湿器 コンプレッサー式 IJC-H65 1台","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/tuzukiya\/cabinet\/0\/0\/8217","p":["\/i14-6827.jpg","\/i14-6827_1.jpg","\/i14-6827_2.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/tuzukiya\/i14-6827\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/tuzukiya\/i14-6827\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"vbEPOc","s":"s"});
 </script>
-<div id="msmaflink-Oplfsc">リンク</div>
+<div id="msmaflink-vbEPOc">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
