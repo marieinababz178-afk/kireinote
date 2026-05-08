@@ -133,9 +133,9 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"島産業 パリパリキューライト PCL-35F2-PGW ピンクゴールド 生ごみ処理機 減量 乾燥機 生ゴミ シマ 静音 キッチン家電","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":["\/@0_mall\/akiba-r\/cabinet\/025000\/224389.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/akiba-r\/224389\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/akiba-r\/224389\/","a_id":5533444,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"Z4UV8","s":"s"});
+msmaflink({"n":"【公式販売店】2大特典＆レビュー特典付 シマ株式会社 生ごみ減量乾燥機 パリパリキュー ライト フィルター2個付属 PCL-35F2 生ゴミ処理機 家庭用 温風乾燥式 （ラッピング不可）（.QL）","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/benefitshop\/cabinet\/zakka05","p":["\/s5413-sim-3028-42_1.jpg","\/s5413-sim-3028-42_2.jpg","\/s5413-sim-3028-42_3.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/benefitshop\/s5413-sim-3028-42\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/benefitshop\/s5413-sim-3028-42\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"3HOie","s":"s"});
 </script>
-<div id="msmaflink-Z4UV8">リンク</div>
+<div id="msmaflink-3HOie">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 
 ### 決め手① 本体価格が現実的
@@ -180,9 +180,9 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"島産業 パリパリキューライト PCL-35F2-PGW ピンクゴールド 生ごみ処理機 減量 乾燥機 生ゴミ シマ 静音 キッチン家電","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":["\/@0_mall\/akiba-r\/cabinet\/025000\/224389.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/akiba-r\/224389\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/akiba-r\/224389\/","a_id":5533444,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"Z4UV8b","s":"s"});
+msmaflink({"n":"【公式販売店】2大特典＆レビュー特典付 シマ株式会社 生ごみ減量乾燥機 パリパリキュー ライト フィルター2個付属 PCL-35F2 生ゴミ処理機 家庭用 温風乾燥式 （ラッピング不可）（.QL）","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/benefitshop\/cabinet\/zakka05","p":["\/s5413-sim-3028-42_1.jpg","\/s5413-sim-3028-42_2.jpg","\/s5413-sim-3028-42_3.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/benefitshop\/s5413-sim-3028-42\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/benefitshop\/s5413-sim-3028-42\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"3HOieb","s":"s"});
 </script>
-<div id="msmaflink-Z4UV8b">リンク</div>
+<div id="msmaflink-3HOieb">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 
 ### チェック① 設置場所は確保できるか
@@ -242,7 +242,7 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"島産業 パリパリキューライト PCL-35F2-PGW ピンクゴールド 生ごみ処理機 減量 乾燥機 生ゴミ シマ 静音 キッチン家電","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":["\/@0_mall\/akiba-r\/cabinet\/025000\/224389.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/akiba-r\/224389\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/akiba-r\/224389\/","a_id":5533444,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"Z4UV8c","s":"s"});
+msmaflink({"n":"【公式販売店】2大特典＆レビュー特典付 シマ株式会社 生ごみ減量乾燥機 パリパリキュー ライト フィルター2個付属 PCL-35F2 生ゴミ処理機 家庭用 温風乾燥式 （ラッピング不可）（.QL）","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/benefitshop\/cabinet\/zakka05","p":["\/s5413-sim-3028-42_1.jpg","\/s5413-sim-3028-42_2.jpg","\/s5413-sim-3028-42_3.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/benefitshop\/s5413-sim-3028-42\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/benefitshop\/s5413-sim-3028-42\/","a_id":5542538,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"3HOiec","s":"s"});
 </script>
-<div id="msmaflink-Z4UV8c">リンク</div>
+<div id="msmaflink-3HOiec">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
