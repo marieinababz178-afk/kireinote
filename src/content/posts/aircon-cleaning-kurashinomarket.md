@@ -7,6 +7,8 @@ draft: false
 note: "A8くらしのマーケットリンク×3プレースホルダー設置済み（提携承認後に差し替え）"
 ---
 
+<!-- TODO: CaSy（カジー）アフィリ申請中。承認されたら追記予定。※Marieの居住エリアは対象外のため未体験として紹介 -->
+
 <!-- TODO: バリューコマース kireinote 登録承認 → くらしのマーケット提携申請 → 承認後に curama.jp 暫定リンク3箇所をバリューコマースの正式アフィリンクに差し替え -->
 
 エアコンをつけたとき、なんとなく生臭いというか、カビっぽいにおいがする。
@@ -159,6 +161,20 @@ note: "A8くらしのマーケットリンク×3プレースホルダー設置�
 
 <!-- A8_KURASHI_LINK_3: メインCTA③ まとめセクション -->
 <p><a href="https://curama.jp/" target="_blank" rel="noopener">▶ くらしのマーケットでエアコンクリーニングを見てみる</a></p>
+
+---
+
+## 他のサービスも気になる方へ
+
+わたしが住むエリアではくらしのマーケットを利用しましたが、地域や時期によって「対応業者が少ない」「希望の日程が空いていない」ということもあると思います。
+
+そういった場合の別の選択肢として、**アールクリーニング**があります。全国対応の専門業者で、エアコンクリーニングに特化したサービスです。くらしのマーケットのようなマッチング型ではなく、アールクリーニング自体が作業を担うスタイルなので、業者選びに迷いたくない方にも向いています。
+
+<p><a href="//af.moshimo.com/af/c/click?a_id=5550677&p_id=3996&pc_id=10059&pl_id=55093" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" attributionsrc>アールクリーニング公式サイトはこちら</a><img src="//i.moshimo.com/af/i/impression?a_id=5550677&p_id=3996&pc_id=10059&pl_id=55093" width="1" height="1" style="border:none;" loading="lazy"></p>
+
+また、「エアコン以外も含めてまるごと家をきれいにしたい」という場合は、家事代行サービスという選択肢もあります。掃除・料理・洗濯など日々の家事をプロに任せることで、時間と気持ちにゆとりが生まれます。
+
+<p><a href="//af.moshimo.com/af/c/click?a_id=5550675&p_id=934&pc_id=1193&pl_id=12460" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" attributionsrc>お財布と心が笑顔になる家事代行サービス【CaSy】</a><img src="//i.moshimo.com/af/i/impression?a_id=5550675&p_id=934&pc_id=1193&pl_id=12460" width="1" height="1" style="border:none;" loading="lazy"></p>
 
 ---
 
