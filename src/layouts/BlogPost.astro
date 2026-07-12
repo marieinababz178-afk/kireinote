@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import Sidebar from "../components/Sidebar.astro";
 
 interface Heading {
   depth: number;
@@ -13,9 +14,11 @@ interface Props {
   date: Date;
   headings?: Heading[];
   ogImage?: string;
+  postId?: string;
 }
 
-const { title, description, date, headings = [], ogImage } = Astro.props;
+const { title, description, date, headings = [], ogImage, postId } = Astro.props;
+
 const dateStr = date.toLocaleDateString("ja-JP", {
   year: "numeric",
   month: "long",
@@ -24,26 +27,70 @@ const dateStr = date.toLocaleDateString("ja-JP", {
 
 // 目次に出すのは h2 と h3 のみ（h1 は記事タイトルなので除外）
 const tocItems = headings.filter((h) => h.depth === 2 || h.depth === 3);
+
+// ヒーロー画像のパスを解決
+const heroSrc = ogImage ?? (postId ? `/images/posts/${postId}/hero.jpg` : null);
 ---
 
 <BaseLayout title={`${title} | kireinote`} description={description} ogImage={ogImage}>
-  <article>
-    <h1>{title}</h1>
-    <div class="meta">{dateStr}</div>
+  <div class="two-col">
 
-    {tocItems.length > 0 && (
-      <nav class="toc" aria-label="目次">
-        <p class="toc-title">📑 目次</p>
-        <ul>
-          {tocItems.map((h) => (
-            <li class={`toc-depth-${h.depth}`}>
-              <a href={`#${h.slug}`}>{h.text}</a>
-            </li>
-          ))}
-        </ul>
-      </nav>
-    )}
+    <!-- 記事本文 -->
+    <main class="main-col">
+      <div class="article-wrapper">
 
-    <slot />
-  </article>
+        <!-- ヒーロー画像 -->
+        {heroSrc && (
+          <img
+            class="post-hero"
+            src={heroSrc}
+            alt={title}
+            loading="eager"
+          />
+        )}
+
+        <article>
+          <h1>{title}</h1>
+          <div class="meta">
+            <span aria-hidden="true">&#128197;</span>
+            {dateStr}
+          </div>
+
+          <!-- 広告表記（ステマ規制・景品表示法対応） -->
+          <p class="affiliate-disclosure">※当サイトはアフィリエイト広告（PR）を利用しています。</p>
+
+          <!-- 目次 -->
+          {tocItems.length > 0 && (
+            <nav class="toc" aria-label="目次">
+              <p class="toc-title">
+                <span aria-hidden="true">&#128221;</span>
+                目次
+              </p>
+              <ul>
+                {tocItems.map((h) => (
+                  <li class={`toc-depth-${h.depth}`}>
+                    <a href={`#${h.slug}`}>{h.text}</a>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          )}
+
+          <slot />
+        </article>
+      </div>
+    </main>
+
+    <!-- サイドバー -->
+    <Sidebar />
+
+  </div>
 </BaseLayout>
+
+<style>
+  .affiliate-disclosure {
+    font-size: 0.82rem;
+    color: #999;
+    margin: 0 0 1.2rem;
+  }
+</style>

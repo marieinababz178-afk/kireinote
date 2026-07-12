@@ -1,35 +1,73 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import Sidebar from "../components/Sidebar.astro";
 
 const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
+
+// 記事IDとカテゴリのマッピング
+const categoryMap: Record<string, { label: string; badge: string }> = {
+  "cosmetics-danshari":                { label: "美容",          badge: "badge-beauty" },
+  "cosmetics-shopping-mistakes":       { label: "美容",          badge: "badge-beauty" },
+  "beauty-appliance-replacement":      { label: "美容",          badge: "badge-beauty" },
+  "clothes-subscription-review":       { label: "ライフスタイル", badge: "badge-lifestyle" },
+  "namagomi-shorikki-paripari-cue":    { label: "ライフスタイル", badge: "badge-lifestyle" },
+  "dehumidifier-review-3years":        { label: "ライフスタイル", badge: "badge-lifestyle" },
+  "aircon-cleaning-kurashinomarket":   { label: "ライフスタイル", badge: "badge-lifestyle" },
+  "shakti-mat-review-1month":          { label: "ライフスタイル", badge: "badge-lifestyle" },
+  "dishwasher-installation-cb-sxh7":  { label: "ライフスタイル", badge: "badge-lifestyle" },
+};
 ---
 
 <BaseLayout title="kireinote — 美容のもやもやを、ちょっと軽くするノート">
-  <div class="post-grid">
-    {posts.map((post) => (
-      <a href={`/posts/${post.id}/`} class="post-card">
-        <div class="card-image">
-          <img src={`/images/posts/${post.id}/hero.jpg`} alt={post.data.title} loading="lazy" />
-        </div>
-        <div class="card-body">
-          <h2 class="card-title">{post.data.title}</h2>
-          <p class="card-desc">{post.data.description}</p>
-          <div class="card-date">
-            {post.data.date.toLocaleDateString("ja-JP", { year: "numeric", month: "long", day: "numeric" })}
-          </div>
-        </div>
-      </a>
-    ))}
-    {posts.length === 0 && (
-      <div class="post-card empty">
-        <div class="card-body">
-          <h2 class="card-title">準備中です</h2>
-          <p class="card-desc">最初の記事を準備中です。もう少しお待ちください。</p>
-        </div>
+  <div class="two-col">
+
+    <!-- 記事一覧 -->
+    <main class="main-col">
+      <div class="section-header">
+        <span class="section-title-bar" aria-hidden="true"></span>
+        <h1 class="section-title">最新記事</h1>
       </div>
-    )}
+
+      <div class="post-grid">
+        {posts.map((post) => {
+          const cat = categoryMap[post.id] ?? { label: "美容", badge: "badge-beauty" };
+          return (
+            <a href={`/posts/${post.id}/`} class="post-card">
+              <div class="card-image">
+                <img
+                  src={`/images/posts/${post.id}/hero.jpg`}
+                  alt={post.data.title}
+                  loading="lazy"
+                />
+              </div>
+              <div class="card-body">
+                <span class={`card-category-badge ${cat.badge}`}>{cat.label}</span>
+                <h2 class="card-title">{post.data.title}</h2>
+                <p class="card-desc">{post.data.description}</p>
+                <div class="card-date">
+                  <span aria-hidden="true">&#128197;</span>
+                  {post.data.date.toLocaleDateString("ja-JP", { year: "numeric", month: "long", day: "numeric" })}
+                </div>
+              </div>
+            </a>
+          );
+        })}
+        {posts.length === 0 && (
+          <div class="post-card empty">
+            <div class="card-body">
+              <h2 class="card-title">準備中です</h2>
+              <p class="card-desc">最初の記事を準備中です。もう少しお待ちください。</p>
+            </div>
+          </div>
+        )}
+      </div>
+    </main>
+
+    <!-- サイドバー -->
+    <Sidebar />
+
   </div>
 </BaseLayout>

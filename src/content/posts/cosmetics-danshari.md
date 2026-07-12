@@ -4,10 +4,7 @@ slug: cosmetics-danshari
 description: 化粧品の断捨離が進まないのは、片付けが下手なんじゃなく「3つの罪悪感」が原因。心のブレーキを言葉にして、機械的に仕分けして、最後に「捨てる以外の選択肢」を持つ手順をまとめました。
 date: 2026-05-01
 draft: false
-note: "リンクは現在 JUST BUY 公式サイト（非アフィリエイト）。記事数が増えた段階で A8.net 副サイト申請 → JUST BUY 再提携承認後にアフィリエイトリンクへ差し替え予定"
-externalLinks:
-  - text: "JUST BUY 公式サイト"
-    url: "https://just-buy.jp/cosme/"
+note: "A8.net アフィリエイトリンクに差し替え済み（2026-05-13）"
 ---
 
 「いつか使うかも…」と引き出しの奥にしまったまま、何ヶ月も触っていない化粧品はありませんか？
@@ -131,7 +128,7 @@ externalLinks:
 
 ![段ボール箱と梱包用のハサミ](/images/posts/cosmetics-danshari/delivery.jpg)
 
-[JUST BUY](https://just-buy.jp/cosme/) は、コスメ・香水・美容家電などを **「使いかけでも」買取してくれる** 、女性向けの買取専門サービスです。
+<a href="https://px.a8.net/svt/ejp?a8mat=3B75QX+2HWJFU+2TOK+2NBPO2" rel="nofollow">コスメ買取のJUST BUY</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=3B75QX+2HWJFU+2TOK+2NBPO2" alt=""> は、コスメ・香水・美容家電などを **「使いかけでも」買取してくれる** 、女性向けの買取専門サービスです。
 
 メルカリと違って手間はほぼゼロ。査定見積もりは無料、自宅から送るだけ、納得いかなければキャンセルもOK。
 
@@ -144,7 +141,7 @@ externalLinks:
 
 わたしも引き出しに眠っている「使いかけファンデ」と「未開封の化粧水」、ものは試しと査定だけ出してみようかなと思っています。査定だけなら無料なので、「いくらになるか確かめる」感覚で使えるのがハードル低くてうれしい。
 
-👉 [JUST BUY 公式サイトで詳細を見る](https://just-buy.jp/cosme/)
+👉 <a href="https://px.a8.net/svt/ejp?a8mat=3B75QX+2HWJFU+2TOK+2NBPO2" rel="nofollow">JUST BUYで査定してみる（無料）</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=3B75QX+2HWJFU+2TOK+2NBPO2" alt="">
 
 ## まとめ — 「捨てる」は最後の手段でいい
 
@@ -154,4 +151,4 @@ externalLinks:
 
 罪悪感を手放した分、次に買う化粧品は「本当に好きなもの」を選べるようになりますよ。
 
-👉 [使いかけコスメの買取はこちら（JUST BUY 公式）](https://just-buy.jp/cosme/)
+👉 <a href="https://px.a8.net/svt/ejp?a8mat=3B75QX+2HWJFU+2TOK+2NBPO2" rel="nofollow">使いかけコスメの買取はJUST BUYへ（査定無料）</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=3B75QX+2HWJFU+2TOK+2NBPO2" alt="">

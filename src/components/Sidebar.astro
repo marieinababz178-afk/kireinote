@@ -1,0 +1,73 @@
+---
+// サイドバーコンポーネント
+// 人気記事・カテゴリ一覧・プロフィールを表示
+
+const popularPosts = [
+  { title: "化粧品の断捨離でスッキリ！やって気づいた3つのこと", url: "/posts/cosmetics-danshari/" },
+  { title: "コスメ買い物失敗あるある：私がやらかした10選", url: "/posts/cosmetics-shopping-mistakes/" },
+  { title: "美容家電の買い替えで実感した「投資対効果」の話", url: "/posts/beauty-appliance-replacement/" },
+  { title: "服のサブスクを1年使って正直に書くレビュー", url: "/posts/clothes-subscription-review/" },
+  { title: "生ごみ処理機「パリパリキュー」を3ヶ月使った感想", url: "/posts/namagomi-shorikki-paripari-cue/" },
+  { title: "除湿機を3年使ったリアルレビュー", url: "/posts/dehumidifier-review-3years/" },
+  { title: "エアコンクリーニングをくらしのマーケットで頼んだ話", url: "/posts/aircon-cleaning-kurashinomarket/" },
+  { title: "シャクティマット1ヶ月使用レビュー", url: "/posts/shakti-mat-review-1month/" },
+];
+
+const categories = [
+  { name: "美容", icon: "✨", dot: "dot-beauty", url: "/category/beauty/" },
+  { name: "ライフスタイル", icon: "🏡", dot: "dot-lifestyle", url: "/category/lifestyle/" },
+];
+---
+
+<aside class="sidebar">
+  <!-- プロフィール -->
+  <div class="sidebar-widget">
+    <h2 class="sidebar-widget-title">
+      <span>このブログについて</span>
+    </h2>
+    <div class="profile-widget-body">
+      <div class="profile-avatar">
+        <span aria-hidden="true">&#128149;</span>
+      </div>
+      <p class="profile-desc">
+        美容・暮らしのリアルな体験談を書いています。<br>
+        失敗談も正直に。もやもやを一緒に解消しましょう。
+      </p>
+    </div>
+  </div>
+
+  <!-- カテゴリ一覧 -->
+  <div class="sidebar-widget">
+    <h2 class="sidebar-widget-title">
+      <span>カテゴリ</span>
+    </h2>
+    <ul class="category-list">
+      {categories.map((cat) => (
+        <li>
+          <a href={cat.url}>
+            <span class={`category-dot ${cat.dot}`}></span>
+            <span class="nav-icon">{cat.icon}</span>
+            {cat.name}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <!-- 人気記事 -->
+  <div class="sidebar-widget">
+    <h2 class="sidebar-widget-title">
+      <span>人気記事</span>
+    </h2>
+    <ul class="popular-list">
+      {popularPosts.map((post, i) => (
+        <li>
+          <a href={post.url}>
+            <span class={`popular-rank${i < 3 ? ` rank-${i + 1}` : ""}`}>{i + 1}</span>
+            <span>{post.title}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</aside>

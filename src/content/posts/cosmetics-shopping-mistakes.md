@@ -101,6 +101,11 @@ YouTuberさんがめちゃくちゃ熱く語ってる動画を見て、思わず
 
 近くに店舗がない場合は、デパコスでも公式サイトで小さいサイズ（ミニ・お試し）が出ていることがあるので、そっちで試してから本品を買うのもアリです。
 
+プチプラで「まず試してみる」のもひとつの手です。たとえばこういった商品なら、お財布へのダメージを抑えながら自分との相性を確認できます。
+
+<table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:300px;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=35JGUQ+9HQWBU+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00utsz4.2bo11657.g00utsz4.2bo12e76%2Fa19070448327_35JGUQ_9HQWBU_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fdenitshop-r%252F4964596783005%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fdenitshop-r%252Fi%252F10014152%252F%26rafcid%3Dwsc_i_is_a9f492a7-8ef9-40e2-ab89-4bc43a1ee283" rel="nofollow"><img style="max-width: initial;" border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/denitshop-r/cabinet/13296301/b0fpc49z9x_main.jpg?_ex=64x64"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=35JGUQ+9HQWBU+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00utsz4.2bo11657.g00utsz4.2bo12e76%2Fa19070448327_35JGUQ_9HQWBU_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fdenitshop-r%252Fi%252F10014152%252F%26rafcid%3Dwsc_i_is_a9f492a7-8ef9-40e2-ab89-4bc43a1ee283" rel="nofollow">excel(エクセル) エクストラリッチ セラムインパウダー EX04 シマーラベンダー 透明感 グロウ ツヤ肌 パフ プチプラ コスメ ラベンダー アミノ酸 セラミド ビタミン 肌補正</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">3596円</span><br><span style="font-size:10px; font-weight:normal;">(2026/5/13 21:37時点)</span><br><span style="font-weight:bold;">感想(0件)</span></p></td></tr></tbody></table>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=35JGUQ+9HQWBU+2HOM+BWGDT" alt="">
+
 ## それでも合わなかった時のリカバリー
 
 ![引き出しでコスメを整理する手元](/images/posts/cosmetics-shopping-mistakes/organized.jpg)

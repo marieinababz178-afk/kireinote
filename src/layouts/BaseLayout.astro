@@ -50,18 +50,52 @@ const resolvedOgImage = ogImage
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={resolvedOgImage} />
 
-    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "08769ce4f0294b1c87db3306b8af47f7"}'></script><!-- End Cloudflare Web Analytics -->
+    <!-- Cloudflare Web Analytics -->
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "08769ce4f0294b1c87db3306b8af47f7"}'></script>
+    <!-- End Cloudflare Web Analytics -->
   </head>
   <body>
+
+    <!-- ヘッダー -->
     <header class="site-header">
-      <a href="/">kireinote</a>
+      <a href="/" class="site-title">kireinote</a>
       <div class="tagline">美容のもやもやを、ちょっと軽くするノート</div>
     </header>
-    <main>
+
+    <!-- カテゴリナビゲーションバー -->
+    <nav class="category-nav" aria-label="カテゴリナビゲーション">
+      <div class="category-nav-inner">
+        <a href="/">
+          <span class="nav-icon" aria-hidden="true">&#127968;</span>
+          トップ
+        </a>
+        <a href="/category/beauty/">
+          <span class="nav-icon" aria-hidden="true">&#10024;</span>
+          美容
+        </a>
+        <a href="/category/lifestyle/">
+          <span class="nav-icon" aria-hidden="true">&#127969;</span>
+          ライフスタイル
+        </a>
+      </div>
+    </nav>
+
+    <!-- メインコンテンツ -->
+    <div class="page-wrapper">
       <slot />
-    </main>
+    </div>
+
+    <!-- フッター -->
     <footer class="site-footer">
-      © {new Date().getFullYear()} kireinote
+      <div class="site-footer-inner">
+        <nav class="footer-nav" aria-label="フッターナビゲーション">
+          <a href="/">トップ</a>
+          <a href="/category/beauty/">美容</a>
+          <a href="/category/lifestyle/">ライフスタイル</a>
+        </nav>
+        <p class="footer-copy">&copy; {new Date().getFullYear()} kireinote</p>
+      </div>
     </footer>
+
   </body>
 </html>
